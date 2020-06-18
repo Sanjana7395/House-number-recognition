@@ -25,5 +25,14 @@ Setup procedure
    Download 'train_32x32.mat' and 'test_32x32.mat' from [here](http://ufldl.stanford.edu/housenumbers/)
    
 4. Run the project  
-   Execute each cell in the notebook and observe the result.
+   Execute each cell in the notebook **number_recognition.ipynb** and observe the result.
+   
+Result
+======
+
+The accuracy obtained is **90.16 %**.
+
+![result](images/result.png)  
+
+
     
